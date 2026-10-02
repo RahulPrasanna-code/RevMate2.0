@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858436936158",
+    "project_id": "revmate-3fffd",
+    "storage_bucket": "revmate-3fffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858436936158:android:c79843f3b997c59e62bd4f",
+        "android_client_info": {
+          "package_name": "com.ryugen.revmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDAhcZC6COg6LCWlDHaGVjej_3IzxyuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

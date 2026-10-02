@@ -1,0 +1,18 @@
+[
+  {
+    "id": "re_himalayan_450",
+    "make": "Royal Enfield",
+    "model": "Himalayan 450",
+    "tankLitres": 17,
+    "chainLubeIntervalKm": 500,
+    "chainServiceIntervalKm": 5000
+  },
+  {
+    "id": "re_classic_350",
+    "make": "Royal Enfield",
+    "model": "Classic 350",
+    "tankLitres": 13,
+    "chainLubeIntervalKm": 500,
+    "chainServiceIntervalKm": 5000
+  }
+]
